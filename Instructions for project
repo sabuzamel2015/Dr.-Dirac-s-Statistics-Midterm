@@ -1,0 +1,31 @@
+Below is where I got my data from:
+
+Dr. Dirac knows the following probabilities based on many years of teaching:
+
+There is a problem that 60% of students know the correct answer
+Given that a student knows the correct answer, there is still a 15% chance that a student picked the wrong answer
+Given that a student does not know the answer, there is still a 20% chance that the student picks the correct answer by guessing
+
+Now these were the instructions for the project.
+
+1.
+In order to use Bayes Theorem, we need to phrase our question as P(A|B). What is A and B in this case?
+
+
+
+2.
+What is the probability that the student knows the material?
+
+
+
+3.
+Given that the student knows the material, what is the probability that she answers correctly?
+
+
+
+4.
+What is the probability of any student answering correctly?
+
+
+5.
+Using the three probabilities and Bayes Theorem, calculate P(knows material | answers correctly).
